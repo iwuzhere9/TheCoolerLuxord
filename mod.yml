@@ -1,0 +1,47 @@
+title: The-Cooler-Luxord
+originalAuthor: iwuzhere9
+game: kh2
+description: Luxord ups his game and replaces his deck with Balatro cards.
+assets:
+
+#PC
+- name: remastered/obj/B_EX210_EH.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/-0.dds
+- name: remastered/obj/B_EX210_EH.mdlx/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/-1.dds
+- name: remastered/obj/B_EX210_EH.mdlx/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/-2.dds
+- name: remastered/obj/B_EX210_EH.mdlx/-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/-3.dds
+- name: remastered/obj/B_EX210.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/-0.dds
+- name: remastered/obj/B_EX210.mdlx/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/-1.dds
+- name: remastered/obj/B_EX210.mdlx/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/-2.dds
+- name: remastered/obj/B_EX210.mdlx/-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/-3.dds
