@@ -12,3 +12,5 @@ Within each of THOSE folders are also further alternates, giving the option for 
 To change decks, simply copy the contents of the deck folder and replace the base "remastered" folder with the alternate. For changing the individual cards, I've included the .dds files under the correct name. 
 
 I have the default options labeled and included under the alternates, so you don't have to worry about keeping a separate folder for changing them around. 
+
+Credits to LocalThunk for making Balatro, the Dax Torture Squad for the KH3 Cursed Mod streams where the idea came to me, and I guess Valve since I made the mod on my Steam Deck idk
