@@ -54,7 +54,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: remastered/obj/M_EX950_CARD.mdlx/corah.dds
+  - name: remastered/obj/M_EX950_CARD.a.us/corah.dds
 - name: remastered/obj/M_EX950_DICE.mdlx/-0.dds
   platform: pc
   method: copy
