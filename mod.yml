@@ -45,24 +45,5 @@ assets:
   method: copy
   source:
   - name: remastered/obj/B_EX210.mdlx/-3.dds
-- name: remastered/obj/M_EX950_CARD.mdlx/-0.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered/obj/M_EX950_CARD.mdlx/cora.dds
-- name: remastered/obj/M_EX950_CARD.a.us/-4.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered/obj/M_EX950_CARD.a.us/corah.dds
-- name: remastered/obj/M_EX950_DICE.mdlx/-0.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered/obj/M_EX950_DICE.mdlx/dora.dds
-- name: remastered/obj/M_EX950_DICE.a.us/-4.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered/obj/M_EX950_DICE.a.us/dorah.dds
+
 
