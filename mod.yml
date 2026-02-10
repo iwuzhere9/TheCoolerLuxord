@@ -65,14 +65,14 @@ assets:
   method: copy
   source:
   - name: remastered/obj/M_EX950_DICE.a.us/dorah.dds
-- name: remastered/obj/B_EX150.mdlx/-2.dds
+- name: remastered/obj/B_EX150.mdlx/-1.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/obj/B_EX150.mdlx/-2.dds
-- name: remastered/obj/B_EX150_LV99.mdlx/-2.dds
+  - name: remastered/obj/B_EX150.mdlx/-1.dds
+- name: remastered/obj/B_EX150_LV99.mdlx/-1.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/obj/B_EX150_LV99.mdlx/-2.dds
+  - name: remastered/obj/B_EX150_LV99.mdlx/-1.dds
   
